@@ -8,12 +8,12 @@ while ($count -le $requestCount){
     $department = Read-Host "Enter your department"
 
     if ($username -eq "admin"){
-        Write-Host "ACCESS DENIED: admin account requires escalation"
+        Write-Host "ACCESS DENIED: admin account in $department requires escalation"
         $escalatedCount = $escalatedCount + 1
     }
     
     else {
-        Write-Host "Unlocking account for $username"
+        Write-Host "Unlocking account for $username in $department"
         $unlockedCount = $unlockedCount + 1
     }
     
