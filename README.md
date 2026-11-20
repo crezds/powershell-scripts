@@ -1,44 +1,51 @@
 # PowerShell Scripts
 
-A collection of PowerShell scripts developed to improve automation, scripting, and systems administration skills.
+This repository contains PowerShell scripts created while learning automation and administration tasks commonly encountered in IT Support, Service Desk, and Microsoft 365 environments.
 
-This repository documents my learning journey as I develop practical experience in PowerShell, Microsoft technologies, cloud administration, and security-focused automation.
+## Purpose
 
-## Objectives
+The goal of this repository is to develop practical PowerShell skills through hands-on scripting challenges and real-world IT scenarios.
 
-- Build proficiency in PowerShell
-- Automate common administrative tasks
-- Develop scripting and problem-solving skills
-- Create a portfolio of practical projects
-- Support progression towards cloud and security engineering roles
+## Skills Demonstrated
 
-## Repository Structure
+- Variables and data types
+- User input with Read-Host
+- Conditional logic (if / else)
+- Loops (while)
+- Counters and summary reporting
+- String comparisons
+- Numeric comparisons
+- Logical operators (-and, -or)
+- Troubleshooting and debugging
+- Script organisation and version control with Git
 
-| Script | Description |
-|----------|----------|
-| Password Checker | Evaluates password strength based on length |
-| Account Lockout | Checks password and locks account if too many failed attempts |
+## Example Scenarios
 
-## Technologies
+Scripts in this repository cover topics such as:
 
-- PowerShell 7
-- Visual Studio Code
-- Git
-- GitHub
+- Password validation
+- Account lockout monitoring
+- Device compliance checks
+- Failed login detection
+- Account unlock workflows
+- Service desk administration tasks
 
-## Planned Projects
+## Learning Approach
 
-- Password Checker
-- Account Lockout Simulator
-- Disk Space Checker
-- Service Health Monitor
-- Device Compliance Simulator
-- Event Log Analysis
+Each script focuses on a specific PowerShell concept and gradually increases in complexity. The repository serves as a record of progress and practical experience while developing PowerShell automation skills.
 
-## Development Approach
+## Future Areas of Development
 
-Projects in this repository are written as learning exercises and are intended to demonstrate progression from foundational scripting concepts to more advanced administrative and security-focused automation.
+- Functions
+- Arrays
+- ForEach loops
+- File handling
+- CSV import and export
+- Active Directory automation
+- Microsoft 365 administration
+- Error handling
+- Logging and reporting
 
 ## Author
 
-**Crezd**
+Crezd
