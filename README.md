@@ -17,7 +17,7 @@ This repository documents my learning journey as I develop practical experience 
 | Script | Description |
 |----------|----------|
 | Password Checker | Evaluates password strength based on length |
-| Coming Soon | Additional projects will be added as learning progresses |
+| Account Lockout | Checks password and locks account if too many failed attempts |
 
 ## Technologies
 
