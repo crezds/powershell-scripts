@@ -41,4 +41,4 @@ Projects in this repository are written as learning exercises and are intended t
 
 ## Author
 
-**Crezds**
+**Crezd**
